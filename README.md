@@ -1,8 +1,9 @@
 
 ## Olá! Eu sou o Willian
 
-![Willian GitHub stats](https://github-readme-stats.vercel.app/api?username=williansousa4k&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williansousa4k&layout=compact)
+Sou musico e design, e no momento eu estou em processo de transição de carreira para a área de programação.
+
+
 
 ### Tecnologias que eu uso no meu dia
 
@@ -16,4 +17,3 @@
 </div><br>
 
 
-Sou musico e design, e no momento eu estou em processo de transição de carreira para a área de programação.
