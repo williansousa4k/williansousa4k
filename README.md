@@ -2,6 +2,7 @@
 ## Olá! Eu sou o Willian
 
 ![Willian GitHub stats](https://github-readme-stats.vercel.app/api?username=williansousa4k&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williansousa4k&layout=compact)
 
 ### Tecnologias que eu uso no meu dia
 
@@ -14,4 +15,5 @@
   <img align="center" alt="Ubunto" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </div><br>
 
-Sou design á 3 anos, e estou em processo de transição de carreira para a área de programação.
+
+Sou musico e design, e no momento eu estou em processo de transição de carreira para a área de programação.
