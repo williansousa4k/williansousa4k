@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou o Willian
 
-![Willian GitHub stats](https://github-readme-stats.vercel.app/api?username=williansousa4k&show_icons=true&theme=dark)
+![Willian GitHub stats](https://github-readme-stats.vercel.app/api?username=williansousa4k&show_icons=true&theme=radical)
 
 ### Tecnologias que eu uso no meu dia
 
