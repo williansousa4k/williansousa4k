@@ -5,8 +5,6 @@ Saudações! Meu nome é Willian, sou Designer e músico há mais de 3 anos, atu
 
 Comecei a me interessar por programação desde criança, mas nunca esteve ao meu alcance como atualmente e desde então me atualizo a cada dia, estudo a cada dia para me tornar cada vez melhor no que faço.
 
-"Que a força Dev esteja com você."
-
 
 
 ### Tecnologias que eu uso no meu dia
