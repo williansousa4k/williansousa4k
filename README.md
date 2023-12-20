@@ -1,5 +1,5 @@
 
-## Olá! Eu sou o Willian
+## Hi! I am Will
 
 Saudações! Meu nome é Willian, sou Designer e músico há mais de 3 anos, atualmente tenho 23 anos e estou sempre estudando e querendo saber mais sobre a área. Estou migrando para a área de Desenvolvimento Web.
 
