@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou o Willian
 
-Sou musico e design, e no momento eu estou em processo de transição de carreira para a área de programação.
+"A sorte acontece quando o preparo encontra uma oportunidade"
 
 
 
