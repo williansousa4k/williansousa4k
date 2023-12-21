@@ -20,4 +20,5 @@ Comecei a me interessar por programação desde criança, mas nunca esteve ao me
 </div><br>
 
 ![Willian GitHub stats](https://github-readme-stats.vercel.app/api?username=williansousa4k&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
