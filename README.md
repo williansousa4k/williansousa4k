@@ -1,6 +1,6 @@
 ## Hi! I am Will 🖖
 
-Saudações! Meu nome é Willian, sou Designer e músico há mais de 3 anos, atualmente tenho 23 anos e estou sempre estudando e querendo saber mais sobre a área. Estou migrando para a área de Desenvolvimento Web.
+Saudações! Meu nome é Willian, sou Designer e músico há mais de 3 anos, atualmente tenho 23 anos e estou sempre me atualizando buscando aprender cada dia mais. Atualmente estou estudando e migrando para a área de Desenvolvimento Web.
 
 ### Tecnologias que eu uso no meu dia
 
