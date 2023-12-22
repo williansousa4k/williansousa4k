@@ -1,4 +1,3 @@
-
 ## Hi! I am Will 🖖
 
 Saudações! Meu nome é Willian, sou Designer e músico há mais de 3 anos, atualmente tenho 23 anos e estou sempre estudando e querendo saber mais sobre a área. Estou migrando para a área de Desenvolvimento Web.
@@ -19,6 +18,8 @@ Saudações! Meu nome é Willian, sou Designer e músico há mais de 3 anos, atu
   <img align="center" alt="Will-css" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="Will-css" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
+
+#
 
 <div>
   
