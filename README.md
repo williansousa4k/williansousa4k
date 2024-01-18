@@ -1,6 +1,8 @@
 ## Hi! I am Will 🖖
 
-Saudações! Meu nome é Willian, sou Designer e músico há mais de 3 anos, atualmente tenho 23 anos e estou sempre me atualizando buscando aprender cada dia mais. Atualmente estou estudando e migrando para a área de Desenvolvimento Web.
+Sou um profissional apaixonado por design que está atualmente imerso na emocionante jornada de transição para o mundo do desenvolvimento web. Com uma carreira na criação de experiências visuais, eu decidi ampliar meus horizontes e mergulhar nos intrincados códigos que dão vida às minhas visões criativas.
+
+Como designer, eu sempre acreditei na importância de equilibrar a estética com a funcionalidade, e essa filosofia me impulsionou a buscar novos desafios. Com uma abordagem inovadora e curiosidade insaciável, eu embarquei em me especializar na área de Front-end, absorvendo conhecimentos sobre linguagens como HTML, CSS e JavaScript.
 
 ### Tecnologias que eu uso no meu dia
 
