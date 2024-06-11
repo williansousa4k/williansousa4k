@@ -2,6 +2,7 @@
 
 I'm a designer transitioning to web development, focused on Front-end. With experience in creating visual experiences, I seek to balance aesthetics and functionality. I work well in a team, I have good communication and I am always improving my knowledge.
 
+Sou designer em transição para desenvolvimento web, focado em Front-end. Com experiência na criação de experiências visuais, procuro equilibrar estética e funcionalidade. Trabalho bem em equipe, tenho boa comunicação e estou sempre aprimorando meus conhecimentos.
 
 <!--
 **williansousa4k/williansousa4k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
